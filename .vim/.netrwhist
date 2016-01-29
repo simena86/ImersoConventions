@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/simena/Dropbox/Imerso/repo/Imerso'
+let g:netrw_dirhist_2='/home/simena/.vim'
+let g:netrw_dirhist_3='/home/simena/.imerso_pointcloud_service'
+let g:netrw_dirhist_4='/home/simena/ImersoSoftware/CloudService/DropboxService/backup_temp_folder.sh'
